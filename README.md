@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository:
-
 ```markdown
 # Train Seat Booking System
 
@@ -65,10 +63,3 @@ Access the live demo of the application [here](your-live-demo-url).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
-```
-
-Replace placeholders like `your-username`, `your-live-demo-url`, and `your-email@example.com` with your actual details. This `README.md` file will help users understand what your project is, how to set it up, and how to deploy it.
