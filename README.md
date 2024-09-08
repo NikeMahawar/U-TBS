@@ -1,4 +1,3 @@
-```markdown
 # Train Seat Booking System
 
 ## Overview
