@@ -40,15 +40,7 @@ The Train Seat Booking System is a web application designed to allow users to bo
 2. **Dependencies**
    - The project uses external libraries hosted via CDN, so no additional installation is required.
 
-## Deployment Instructions
-
-1. **Deploy to Hosting Platform**
-   - **GitHub Pages**: Push the project to a GitHub repository and enable GitHub Pages in the repository settings.
-   - **Netlify**: Drag and drop your project folder into Netlify for deployment.
-   - **Vercel**: Connect your GitHub repository to Vercel for automatic deployments.
-   - **Firebase Hosting**: Initialize Firebase Hosting in your project directory and deploy.
-
-2. **Access the Live Demo**
+**Access the Live Demo**
    - The URL for the live demo will be provided once the project is deployed.
 
 ## Code Structure
